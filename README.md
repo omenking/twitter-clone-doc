@@ -20,6 +20,7 @@ The purpose of this document is to list out all the feature requirements to clon
 - [ ] Bookmarks
 
 - [ ] Home Feed
+- [ ] Notifications Feed
 - [ ] Explore Feed
 - [ ] Profile Feed
   - [ ] Tweets Feed
