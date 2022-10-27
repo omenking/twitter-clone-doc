@@ -27,3 +27,4 @@ The purpose of this document is to list out all the feature requirements to clon
   - [ ] Media
   - [ ] Likes
 - [ ] Search
+- [ ] You Might Like
